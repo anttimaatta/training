@@ -8,8 +8,3 @@ plt.show()
 
 # add something
 
-<<<<<<< HEAD
-# add something else
-=======
-# what is this?
->>>>>>> master
